@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KnowNews/static/css/main.f855e6bc.css",
+    "main.js": "/KnowNews/static/js/main.d6ba5956.js",
+    "static/js/453.9fb432fb.chunk.js": "/KnowNews/static/js/453.9fb432fb.chunk.js",
+    "static/media/loading.gif": "/KnowNews/static/media/loading.a6190ff6e79768e086e2.gif",
+    "index.html": "/KnowNews/index.html",
+    "main.f855e6bc.css.map": "/KnowNews/static/css/main.f855e6bc.css.map",
+    "main.d6ba5956.js.map": "/KnowNews/static/js/main.d6ba5956.js.map",
+    "453.9fb432fb.chunk.js.map": "/KnowNews/static/js/453.9fb432fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d6ba5956.js"
+  ]
+}
